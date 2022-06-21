@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">GithubApp</string>
+    <string name="search">Search...</string>
+    <string name="retry">重试</string>
+    <string name="oops_an_error_happened">网络出现问题，请重试</string>
+    <string name="empty_hint">没有数据</string>
+    <string name="no_result_found">没有找到相关的结果</string>
+    <string name="refresh">请点击右上角输入以刷新数据</string>
+    <string name="repositories">repo</string>
+    <string name="no_login">您还没登陆，请点击登陆\n（不登陆也能使用搜索功能）</string>
+    <string name="logout">退出登陆</string>
+
+</resources>
